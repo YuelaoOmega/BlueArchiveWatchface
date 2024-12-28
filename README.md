@@ -1,0 +1,2 @@
+# BlueArchiveWatchface
+从Wallpaper上移植的壁纸
